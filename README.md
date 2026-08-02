@@ -37,10 +37,8 @@ Open the Sales Dashboard.pbix file in Microsoft Power BI Desktop.
 Refresh the data if needed.
 Explore the dashboard using the available filters and slicers.
 Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot 2026-08-02 213158" src="https://github.com/user-attachments/assets/6739f490-7742-4021-a081-b1b18d3e001a" />
 
-Add a screenshot of your dashboard here.
-
-/dashboard-screenshot.png
 Future Enhancements
 Real-time data integration
 Sales forecasting
